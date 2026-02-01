@@ -5,6 +5,7 @@
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60"  />
