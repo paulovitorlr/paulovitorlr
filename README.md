@@ -5,9 +5,9 @@
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img src="https://skillicons.dev/icons?i=CSS" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
