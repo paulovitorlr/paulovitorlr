@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vs" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
