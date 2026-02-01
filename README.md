@@ -20,15 +20,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=SCSS" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=vs" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
