@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html5" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=HTML5" height="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css3" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=CSS3" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="tailwindcss logo"  />
   <img width="12" />
