@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c#" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="typescript logo"  />
   <img width="12" />
