@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresSQL" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
